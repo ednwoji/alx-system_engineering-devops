@@ -1,2 +1,2 @@
 #!/bin/bash
-Second Creation on shell
+script that prints the absolute path name of the current working directory
